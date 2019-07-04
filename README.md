@@ -96,9 +96,3 @@ Linux: apache-tomcat-9.0.12\bin\startup.sh;
 此菜单只有admin用户登陆时显示，用户管理用户，admin用户可以新增用户、编辑用户、删除用户。
 
 
-
-最后希望大家可以一起维护此项目，如有问题可加入qq群提问 点击链接加入群聊【QQ群：817362677】【kettle-scheduler交流群】：https://jq.qq.com/?_wv=1027&k=59nBFXl
-
-详细说明见个人博客：https://blog.csdn.net/zhaxiaodong/article/details/84107102
-
-
